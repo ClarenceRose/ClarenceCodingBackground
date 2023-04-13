@@ -4,12 +4,15 @@ Contents
 
 The repository contains the following files and folders:
 
-README.md: This file provides an overview of the repository.
-projects
+Normal Distribution Histogram barGrph.py
 
-Here are brief descriptions of some of the projects included in this repository:
+README.md
 
+Trigonometric Functions.py
 
+fruitCount_pieGrph.py
+
+sp500_data_capture_and_manipulator.py
 
 Here are some of the code samples included in this repository:
 
